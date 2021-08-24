@@ -1,6 +1,7 @@
 # bmi
 
 A new Flutter project.
+A flutter application that calculates the BMI of a person by taking the height and weight of that person as input.
 
 ## Getting Started
 
